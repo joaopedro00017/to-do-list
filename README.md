@@ -1,12 +1,77 @@
-# React + Vite
+# ✅ Gerenciador de Tarefas — Dark Theme
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um gerenciador de tarefas simples e intuitivo desenvolvido com **React.js**, com interface escura e responsiva. Crie, visualize, conclua e exclua tarefas de forma prática e eficiente!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades
 
-## Expanding the ESLint configuration
+- ✅ Adicionar tarefas com título e descrição
+- 🌓 Interface em **modo escuro**
+- 📋 Visualizar tarefas cadastradas
+- ✔️ Marcar tarefas como concluídas
+- ❌ Excluir tarefas individualmente
+- 💾 Salvamento local com **LocalStorage**
+- 🔍 Visualizar detalhes da tarefa em uma nova página
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [React Router DOM](https://reactrouter.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [UUID](https://www.npmjs.com/package/uuid)
+- [Lucide Icons](https://lucide.dev/)
+
+---
+
+## 📦 Instalação
+
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+
+2. **Instale as dependências:**
+
+```bash
+npm install 
+```
+
+3. **Inicie o projeto:**
+
+```bash
+npm run dev
+```
+
+Acesse `http://localhost:5173` no navegador.
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+📦 src
+ ┣ 📂components
+ ┃ ┣ 📜 AddTask.jsx
+ ┃ ┣ 📜 Tasks.jsx
+ ┣ 📂pages
+ ┃ ┣ 📜 TaskPage.jsx
+ ┣ 📜 App.jsx
+ ┣ 📜 main.jsx
+```
+
+---
+
+## 🔗 Deploy
+
+Você pode acessar a aplicação hospedada em:  
+👉 [https://to-do-list-indol-nine-68.vercel.app](https://to-do-list-indol-nine-68.vercel.app)
+
+---
+
+
+Feito com ❤️ por [João Pedro](https://github.com/joaopedro00017)
