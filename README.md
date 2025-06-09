@@ -1,13 +1,12 @@
-# ✅ Gerenciador de Tarefas — Dark Theme
+# ✅ Gerenciador de Tarefas
 
-Um gerenciador de tarefas simples e intuitivo desenvolvido com **React.js**, com interface escura e responsiva. Crie, visualize, conclua e exclua tarefas de forma prática e eficiente!
+Um gerenciador de tarefas simples e intuitivo desenvolvido com **React.js**, com interface responsiva. Crie, visualize, conclua e exclua tarefas de forma prática e eficiente!
 
 ---
 
 ## 🚀 Funcionalidades
 
 - ✅ Adicionar tarefas com título e descrição
-- 🌓 Interface em **modo escuro**
 - 📋 Visualizar tarefas cadastradas
 - ✔️ Marcar tarefas como concluídas
 - ❌ Excluir tarefas individualmente
@@ -31,8 +30,8 @@ Um gerenciador de tarefas simples e intuitivo desenvolvido com **React.js**, com
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/joaopedro00017/to-do-list.git
+cd to-do-list
 ```
 
 2. **Instale as dependências:**
